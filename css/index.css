@@ -34,6 +34,11 @@ body {
 *::-webkit-scrollbar-track {
   background-color: transparent;
 }
+.fa,
+.far,
+.fas {
+  font-family: "Font Awesome 5 Brands" !important;
+}
 h1,
 h2,
 h3,
