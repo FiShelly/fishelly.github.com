@@ -1680,6 +1680,10 @@ img:hover {
   width: 5rem;
   height: 5rem;
 }
+#sidebar .author-info__avatar > img {
+  width: 5rem;
+  height: 5rem;
+}
 #sidebar .author-info__name {
   font-size: 0.8rem;
 }
