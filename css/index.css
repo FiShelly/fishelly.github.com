@@ -34,11 +34,6 @@ body {
 *::-webkit-scrollbar-track {
   background-color: transparent;
 }
-.fa,
-.far,
-.fas {
-  font-family: "Font Awesome 5 Brands" !important;
-}
 h1,
 h2,
 h3,
@@ -600,6 +595,9 @@ footer {
 }
 #site-social-icons .social-icon:hover {
   color: #fff;
+}
+#site-social-icons .social-icon i {
+  font-family: "Font Awesome 5 Brands" !important;
 }
 #page-header {
   position: absolute;
