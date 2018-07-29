@@ -1187,6 +1187,7 @@ footer {
   margin-right: 0.2rem;
 }
 #top-container {
+  color: #666 !important;
   position: relative;
   margin-bottom: 1rem;
   background-color: #49b1f5;
@@ -1211,7 +1212,6 @@ footer {
   height: 56px;
 }
 #top-container a {
-  color: #eee;
   text-decoration: none;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
@@ -1233,7 +1233,6 @@ footer {
 #top-container #post-info {
   padding: 10rem 1rem;
   width: 100%;
-  color: #eee;
   text-align: center;
 }
 #top-container #post-title {
