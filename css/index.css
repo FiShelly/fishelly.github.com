@@ -593,11 +593,11 @@ footer {
   font-size: 1.4rem;
   cursor: pointer;
 }
-#site-social-icons .social-icon:hover {
-  color: #fff;
-}
 #site-social-icons .social-icon i {
   font-family: "Font Awesome 5 Brands" !important;
+}
+#site-social-icons .social-icon:hover {
+  color: #fff;
 }
 #page-header {
   position: absolute;
